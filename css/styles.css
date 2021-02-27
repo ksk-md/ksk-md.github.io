@@ -10,6 +10,9 @@ body {
 p {
   line-height:150%;
 }
+li {
+  margin:10px 0;
+}
 
 nav {
   position:fixed;
@@ -160,6 +163,7 @@ text-align: center;
 
 img {
   max-width: 100%;
+  vertical-align: middle;
 }
 
 .img-margin {
